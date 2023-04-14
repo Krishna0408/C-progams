@@ -44,7 +44,7 @@ int main()
  {
      if(max<c[i])
      {
-         max=c[i];
+         max=c[i]; 
           y=i;
      }
  }
