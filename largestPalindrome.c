@@ -58,4 +58,4 @@ for(int i=y-max;i<=max+y;i++)
         printf("%c",b[i]);
     }
 }
-}
+} 
